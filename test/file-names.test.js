@@ -1,4 +1,4 @@
-const { assert } = require('chai');
+/* const { assert } = require('chai');
 const { testOptional } = require('../extensions/index.js');
 const { renameFiles } = require('../src/file-names.js');
 
@@ -13,3 +13,4 @@ describe('File names', () => {
     assert.deepEqual(renameFiles([]), []);
   });
 });
+ */

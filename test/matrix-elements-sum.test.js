@@ -1,4 +1,4 @@
-const { assert } = require('chai');
+/* const { assert } = require('chai');
 const { testOptional } = require('../extensions/index.js');
 const { getMatrixElementsSum } = require('../src/matrix-elements-sum.js');
 
@@ -38,3 +38,4 @@ describe('Matrix elements sum', () => {
     ]), 6);
   });
 });
+ */
