@@ -1,4 +1,4 @@
-/* const { assert } = require('chai');
+const { assert } = require('chai');
 const { testOptional } = require('../extensions/index.js');
 const { deleteDigit } = require('../src/delete-digit.js');
 
@@ -16,4 +16,3 @@ describe('Delete digit', () => {
     assert.strictEqual(deleteDigit(342), 42);
   });
 });
- */
