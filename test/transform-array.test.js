@@ -1,4 +1,4 @@
-/* const { expect, assert } = require('chai');
+const { expect, assert } = require('chai');
 const { testOptional, checkForThrowingErrors, CONSTANTS } = require('../extensions/index.js');
 const { transform } = require('../src/transform-array.js');
 
@@ -109,4 +109,3 @@ describe('Transform array', () => {
     });
 });
 
- */
